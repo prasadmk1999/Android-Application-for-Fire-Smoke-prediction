@@ -9,7 +9,7 @@ To build an android application that can detect fire and smoke in an image.The i
 to be drawn on the image once the fire or smoke is detected as shown in below image 
 
 
-<img src="images/fire.png" class="center">
+<img src="fire.png" class="center">
 
 
 ## development process
@@ -27,7 +27,7 @@ development process is 4 types
 <p><br> 3)Export Model to local system</p>
 <p><br> 4)Integrate to Android Application & testing</p>
 
-<img src="images/development.png" width="900" height="500">
+<img src="development.png" width="900" height="500">
 
 ## Dataset Features
  1)Trainning dataset has 3 classes
@@ -67,24 +67,24 @@ Fire-Smoke detection.Detecting Fire, Smoke using Computer Vision, Open CV and Py
  <p>For training the model I have used transfer learning technique. Architecture used here is ResNet50 which is pretrained on ImageNet dataset. I have achieved validation accuracy   more than 95% using ResNet. training and graphs – ( Training.ipynb and Interference.ipynb)</p>
   <p>number  of Epoches=10 </p>
 
-<img src="images/tarinEpoch10.png">
-<img src="images/AccuEpoch10.png">
+<img src="tarinEpoch10.png">
+<img src="AccuEpoch10.png">
 
 <p> Result of training where epoch = 10</p>
-<img src="images/res10.png">
+<img src="res10.png">
 
  <p>number  of Epoches=100 </p>
- <img src="images/epo100.png">
+ <img src="epo100.png">
  <p> Result of training where epoch = 100</p>
- <img src="images/Res_100.png">
+ <img src="Res_100.png">
  
 ## Image output 
 you can give any images to model.
-<img src="images/imgPredict.png">
+<img src="imgPredict.png">
 ## video output
 it also predict video based on input,if user give a video it will predict probability of input video is Fire,Smoke or Neutral.
 <video width="100" height="100" controls>
-<source src="images/vid.mp4" type ="video/mp4">
+<source src="vid.mp4" type ="video/mp4">
 </video>
 
 
@@ -94,6 +94,6 @@ it also predict video based on input,if user give a video it will predict probab
  
 ## Android Application
 ## Results 
-<img src="images/image_2.jpg"> 
+<img src="image_2.jpg"> 
 
 
