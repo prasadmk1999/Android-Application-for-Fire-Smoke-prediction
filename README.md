@@ -4,6 +4,10 @@
   <li>Training.ipynb </li>
   <li>Inference.ipynb</li>
 </ul>
+<p>Fire smoke dataset</p>
+<ul>
+  <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
+</ul>
 
 ## Android Application for Fire-Smoke prediction 
 Detecting Fire, Smoke using Computer Vision, Open CV and PyTorch using deep learning concept 
