@@ -136,7 +136,7 @@ it also predict video based on input,if user give a video it will predict probab
 <ul>
       <li>Android Application source code</li>     
   </ul>
-  <p> android source code size after zipping more than 400 MB its unable to add using git lfs and mannually its immpossible. the remote end hung up unexpectedly so that if you people want i will show you using screenshare in googlemeet</P>
+  <p> android source code size after zipping more than 400 MB its unable to add using git lfs and mannually its immpossible because of the remote end hung up unexpectedly so that if you people want i will show you using screenshare in googlemeet</P>
   <ul>
   <li> Email : prasadkamble0062@gmail.com </li>
   </ul>
