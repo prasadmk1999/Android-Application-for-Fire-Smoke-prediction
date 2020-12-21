@@ -81,6 +81,7 @@ Fire-Smoke detection.Detecting Fire, Smoke using Computer Vision, Open CV and Py
 ## Image output 
 you can give any images to model.
 <img src="imgPredict.png">
+
 ## video output
 it also predict video based on input,if user give a video it will predict probability of input video is Fire,Smoke or Neutral.
 <video width="100" height="100" controls>
@@ -95,16 +96,24 @@ it also predict video based on input,if user give a video it will predict probab
 ## Android Application 
 
 ![neutral](https://user-images.githubusercontent.com/76401812/102758170-5aa84800-4398-11eb-8f52-a6747641c199.gif)
-<p>it is real time fire-smoke detection application instead of making boxes it seems not good so that i made scolldown.its clearly visible to user.In real-time application its help to everyone.</p>
+<p>it is real time fire-smoke detection application instead of making boxes it seems not good so that i made scolldown activity.its clearly visible to user.In real-time application its help to everyone.</p>
 
 
 ## Results
 <p>Click the link for Fire-smoke prediction app video....</p>
 https://user-images.githubusercontent.com/76401812/102762490-5c750a00-439e-11eb-9448-e285de5f754d.mp4
 
+## Providing Security 
+<ul>
+      <li> Register</li>
+      <li> Login</li>
+      <li> Default Login</li>
+      <li> 2 Factor Authentication</li>
+      <li> Logout</li>
+  </ul>
+  </p>
+  
 
 
-
-## Results 
 
 
