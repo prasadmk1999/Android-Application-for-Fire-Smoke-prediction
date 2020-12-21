@@ -93,6 +93,7 @@ it also predict video based on input,if user give a video it will predict probab
 
  
 ## Android Application 
+<video src="firesmoke.gif">
 <video src="neutral.gif">
 
 
