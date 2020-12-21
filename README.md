@@ -106,17 +106,7 @@ it also predict video based on input,if user give a video it will predict probab
 <p>Click the below link for Neutral prediction app video....</p>
 <p>https://user-images.githubusercontent.com/76401812/102758170-5aa84800-4398-11eb-8f52-a6747641c199.gif</p>
 
-## feature work proving security to app
-<ul>
-      <li> Register</li>
-      <li> Login</li>
-      <li> Default Login</li>
-      <li> 2 Factor Authentication</li>
-      <li> Logout</li>
-  </ul>
-  
-  <p> Click the below link for above factors in application</p>
-  <p>https://user-images.githubusercontent.com/76401812/102770421-23db2d80-43aa-11eb-8c96-17da303a60ee.mp4</p>
+
 
 
 
