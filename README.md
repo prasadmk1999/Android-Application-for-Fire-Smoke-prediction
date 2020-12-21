@@ -114,6 +114,11 @@ it also predict video based on input,if user give a video it will predict probab
       <li> 2 Factor Authentication</li>
       <li> Logout</li>
   </ul>
+  
+  <p> Click the below link for above factors in application</p>
+  <p>https://user-images.githubusercontent.com/76401812/102770421-23db2d80-43aa-11eb-8c96-17da303a60ee.mp4</p>
+
+
 
 
   
