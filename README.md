@@ -98,6 +98,15 @@ it also predict video based on input,if user give a video it will predict probab
 
 
 
+
+
+
+
+
+
+
+
+
 https://user-images.githubusercontent.com/76401812/102762490-5c750a00-439e-11eb-9448-e285de5f754d.mp4
 
 
