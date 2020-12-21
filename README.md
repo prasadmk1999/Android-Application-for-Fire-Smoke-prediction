@@ -23,9 +23,9 @@ development process is 4 types
       <li> Neutral</li>
   </ul>
 
-<p><br> 2)Model Training using Teachable ML by Google</p> 
-<p><br> 3)Export Model to local system</p>
-<p><br> 4)Integrate to Android Application & testing</p>
+<p>2)Model Training using Teachable ML by Google</p> 
+<p>3)Export Model to local system</p>
+<p>4)Integrate to Android Application & testing</p>
 
 <img src="development.png" width="900" height="500">
 
@@ -102,7 +102,7 @@ it also predict video based on input,if user give a video it will predict probab
 ## Results
 <p>Click the link for Fire-smoke prediction app video....</p>
 https://user-images.githubusercontent.com/76401812/102762490-5c750a00-439e-11eb-9448-e285de5f754d.mp4
-<br>
+
 <p>Click the link for Neutral prediction app video....</p>
 https://user-images.githubusercontent.com/76401812/102758170-5aa84800-4398-11eb-8f52-a6747641c199.gif
 
