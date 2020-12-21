@@ -93,8 +93,14 @@ it also predict video based on input,if user give a video it will predict probab
 
  
 ## Android Application
+ Neutral detection 
+ 
+ 
+ 
+ 
+<video src="neutral.gif">
 
-<img src="neutral.gif">
+
 
 ## Results 
 <img src="image_2.jpg"> 
