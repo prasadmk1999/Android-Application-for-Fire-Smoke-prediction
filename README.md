@@ -6,7 +6,8 @@
 </ul>
 <p>Fire smoke dataset</p>
 <ul>
-  <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
+  <li> dataset in Master branch or https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
+  <li></li>
 </ul>
 
 ## Android Application for Fire-Smoke prediction 
@@ -135,7 +136,8 @@ it also predict video based on input,if user give a video it will predict probab
 <ul>
       <li>Android Application source code</li>     
   </ul>
-  <p>source code size after zipping more than 600 MB its unable to add using git lfs and mannually its immpossible.if you want i will show you using screenshare using googlemeet</P>
+  <p> android source code size after zipping more than 600 MB its unable to add using git lfs and mannually its immpossible.if you people want i will show you using screenshare using googlemeet</P>
+  
 
 
 
