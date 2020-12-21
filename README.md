@@ -1,3 +1,10 @@
+## concepts 
+<p>deep learning concepts</p>
+<ul>
+  <li>Training.ipynb </li>
+  <li>Inference.ipynb</li>
+</ul>
+
 ## Android Application for Fire-Smoke prediction 
 Detecting Fire, Smoke using Computer Vision, Open CV and PyTorch using deep learning concept 
 Early fire/smoke detection plays a very important role in protecting many lives also property loss can be reduced and downtime for the operation minimized through early detection. Therefore in this project I have developed an Computer Vision & Deep Learning pipeline for fire and smoke detection.
@@ -117,6 +124,16 @@ it also predict video based on input,if user give a video it will predict probab
   
   <p> Click the below links for above factors in application</p>
   <p>https://user-images.githubusercontent.com/76401812/102770421-23db2d80-43aa-11eb-8c96-17da303a60ee.mp4</p>
+  
+  
+  
+## Missing
+<ul>
+      <li>Android Application source code</li>     
+  </ul>
+  <p>source code size after zipping more than 600 MB its unable to add using git lfs and mannually its immpossible.if you want i will show you using screenshare using googlemeet</P>
+
+
 
 
 
