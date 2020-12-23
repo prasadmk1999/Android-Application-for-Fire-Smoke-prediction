@@ -19,9 +19,7 @@ deep learning concepts
 <ul>
   <li>Training.ipynb: https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Training.ipynb</li>
   <li>Inference.ipynb: https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Inference%20.ipynb</li>    
-   </ul>
-          
-          
+   </ul>          
 Fire smoke dataset
 <ul>
   <li> dataset in Master branch or https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
@@ -165,16 +163,4 @@ it also predict video based on input,if user give a video it will predict probab
   <li> Email : prasadkamble0062@gmail.com </li>
   </ul>
   
-
-
-
-
-
-
-
-
-  
-
-
-
 
