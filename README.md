@@ -24,6 +24,10 @@ The project covers
 <ul>
   <li> dataset in Master branch or https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
 </ul>
+Android Application source code 
+<ul>
+     <li>src.zip</li>
+     </li>
 
 ## Android Application for Fire-Smoke prediction 
 Detecting Fire, Smoke using Computer Vision, Open CV and PyTorch using deep learning concept 
