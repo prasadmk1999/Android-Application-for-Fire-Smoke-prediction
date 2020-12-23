@@ -5,7 +5,7 @@ This project was completed by Prasad Kamble. This article details how to create 
 ## Summary
 The project covers
 <ul>
-     <li> Training deep learning model for fire-smoke predication </li> 
+     <li>Training deep learning model for fire-smoke predication </li> 
      <li>Real time android application for fire-smoke prediction</li>
 </ul>
  Project git repository
