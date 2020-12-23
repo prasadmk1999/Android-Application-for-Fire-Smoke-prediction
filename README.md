@@ -9,7 +9,7 @@ the project covers
   </ul>
  project git repository
  <ul>
-  <li>prasadmk1999/Android-Application-for-Fire-Smoke-prediction</li>
+  <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/</li>
   </ul>
 
 
