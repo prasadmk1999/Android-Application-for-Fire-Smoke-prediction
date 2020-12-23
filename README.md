@@ -28,7 +28,7 @@ Fire smoke dataset
 </ul>
 Android Application source code 
 <ul>
-    <li>src.zip</li>
+    <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/src.zip</li>
 </ul>
 
 
