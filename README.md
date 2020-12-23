@@ -1,7 +1,7 @@
-## introduction
+## Introduction
 This project was completed by Prasad Kamble. This article details how to create a real time android mobile app image classifier and is deep-learning-language agnostic.
 
-## summary
+## Summary
 The project covers
 <ul>
      <li> Training deep learning model for fire-smoke predication </li> 
@@ -14,7 +14,7 @@ The project covers
 
 
 
-## concepts 
+## Concepts 
 <p>deep learning concepts</p>
 <ul>
   <li>Training.ipynb </li>
@@ -39,7 +39,7 @@ to be drawn on the image once the fire or smoke is detected as shown in below im
 <img src="fire.png" class="center">
 
 
-## development process
+## Development process
 
 development process is 4 types 
   <p><br>1)Data Collection</p>
