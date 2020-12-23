@@ -23,7 +23,6 @@ The project covers
 <p>Fire smoke dataset</p>
 <ul>
   <li> dataset in Master branch or https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
-  <li></li>
 </ul>
 
 ## Android Application for Fire-Smoke prediction 
@@ -46,9 +45,9 @@ development process is 4 types
   <p><br>1)Data Collection</p>
 <ul>
      <li> Data – Image type </li> 
-      <li> 1)Fire </li>
-      <li> 2)Smoke</li>
-      <li> 3)Neutral</li>
+      <li> Fire </li>
+      <li> Smoke</li>
+      <li> Neutral</li>
   </ul>
 
 <p>2)Model Training using Teachable ML by Google</p> 
