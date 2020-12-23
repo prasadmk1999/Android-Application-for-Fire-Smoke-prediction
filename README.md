@@ -2,18 +2,16 @@
 This project was completed by Prasad Kamble. This article details how to create a real time android mobile app image classifier and is deep-learning-language agnostic.
 
 ## summary
-the project covers
+The project covers
 <ul>
      <li> Training deep learning model for fire-smoke predication </li> 
       <li>Real time android application for fire-smoke prediction</li>
   </ul>
- project git repository
+ Project git repository
  <ul>
   <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/</li>
   </ul>
 
-
- 
 
 
 ## concepts 
