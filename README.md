@@ -37,6 +37,12 @@ Early fire/smoke detection plays a very important role in protecting many lives 
 
 android application which predict the fire and smoke.
 
+## Android Application for Fire-Smoke prediction 
+Detecting Fire, Smoke using Computer Vision, Open CV and PyTorch using deep learning concept 
+Early fire/smoke detection plays a very important role in protecting many lives also property loss can be reduced and downtime for the operation minimized through early detection. Therefore in this project I have developed an Computer Vision & Deep Learning pipeline for fire and smoke detection.
+
+android application which predict the fire and smoke.
+
 ## Problem Statement 
 To build an android application that can detect fire and smoke in an image.The image can be either taken from gallery or capture a new image using camera.Colored bounding box has
 to be drawn on the image once the fire or smoke is detected as shown in below image 
