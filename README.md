@@ -15,7 +15,7 @@ The project covers
 
 
 ## Concepts 
-<p>deep learning concepts</p>
+deep learning concepts
 <ul>
   <li>Training.ipynb: https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Training.ipynb</li>
   <li>Inference.ipynb: https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Inference%20.ipynb</li>    
