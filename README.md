@@ -1,3 +1,6 @@
+## introduction
+This project was completed by Prasad Kamble. This article details how to create a<p style ="color:black;"> real time android mobile app image classifier and is deep-learning-language agnostic</text>.
+
 ## concepts 
 <p>deep learning concepts</p>
 <ul>
