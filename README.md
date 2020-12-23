@@ -1,5 +1,4 @@
-## Introduction
-good
+
 ## Introduction
 This project was completed by Prasad Kamble. This article details how to create a real time android mobile app image classifier and is deep-learning-language agnostic.
 
@@ -15,13 +14,12 @@ The project covers
   </ul>
 
 
-
 ## Concepts 
 <p>deep learning concepts</p>
 <ul>
   <li>Training.ipynb: https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Training.ipynb </li>
   <li>Inference.ipynb: https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Inference%20.ipynb</li>    
-</ul>
+   </ul>
           
           
 Fire smoke dataset
