@@ -5,8 +5,7 @@ This project was completed by Prasad Kamble. This article details how to create 
 The project covers
 <ul>
      <li> Training deep learning model for fire-smoke predication </li> 
-          
-      <li>Real time android application for fire-smoke prediction</li>
+     <li>Real time android application for fire-smoke prediction</li>
   </ul>
  Project git repository
  <ul>
@@ -20,13 +19,15 @@ The project covers
 <ul>
   <li>Training.ipynb </li>
      <ul>
-               <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Training.ipynb</li>
+         <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Training.ipynb</li>
      </ul>
   <li>Inference.ipynb</li>
      <ul>
-          <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Inference%20.ipynb</li>
-          <ul>
+        <li>https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/blob/main/Inference%20.ipynb</li>
+     <ul>
 </ul>
+          
+          
 <p>Fire smoke dataset</p>
 <ul>
   <li> dataset in Master branch or https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
