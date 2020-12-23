@@ -28,7 +28,7 @@ The project covers
 </ul>
           
           
-<p>Fire smoke dataset</p>
+Fire smoke dataset
 <ul>
   <li> dataset in Master branch or https://github.com/prasadmk1999/Android-Application-for-Fire-Smoke-prediction/pull/new/master</li>
 </ul>
