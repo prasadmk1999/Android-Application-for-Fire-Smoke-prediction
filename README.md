@@ -166,4 +166,8 @@ it also predict video based on input,if user give a video it will predict probab
   <li> Email : prasadkamble0062@gmail.com </li>
   </ul>
   
-
+## Information
+<ul>
+     <li>Name: Prasad M Kamble</li>
+  <li> Email : prasadkamble0062@gmail.com </li>
+  </ul>
